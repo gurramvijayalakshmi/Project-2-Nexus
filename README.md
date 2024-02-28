@@ -1,7 +1,7 @@
 # Project-2-Nexus
 Project Title: Website for a Software Company
 
-https://github.com/gurramvijayalakshmi/Project-2-Nexus/
+https://gurramvijayalakshmi.github.io/Project-2-Nexus/
 
 1. Attractive UI Design:
 - Utilize gradients to enhance the visual appeal of the website.
